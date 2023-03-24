@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "selenium-webdriver": "^4.8.1"
+  },
+  "scripts": {
+    "news": "node news/news.js",
+    "topseller": "node topSeller/topSeller.js"
+  },
+  "type": "module"
+}
