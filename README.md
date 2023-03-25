@@ -10,3 +10,10 @@ top seller -> node steam/topseller
 most played -> node steam/mostplayed
 popular new release -> node steam/newrelease
 ```
+
+start server
+
+```
+node index.js
+npm start
+```
